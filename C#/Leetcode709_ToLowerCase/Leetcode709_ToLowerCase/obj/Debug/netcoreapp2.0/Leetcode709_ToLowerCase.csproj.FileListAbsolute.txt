@@ -1,0 +1,11 @@
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\bin\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.deps.json
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\bin\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.runtimeconfig.json
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\bin\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.runtimeconfig.dev.json
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\bin\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.dll
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\bin\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.pdb
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\obj\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.csprojAssemblyReference.cache
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\obj\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.csproj.CoreCompileInputs.cache
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\obj\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.AssemblyInfoInputs.cache
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\obj\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.AssemblyInfo.cs
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\obj\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.dll
+D:\MyPractice\Leetcode709_ToLowerCase\Leetcode709_ToLowerCase\obj\Debug\netcoreapp2.0\Leetcode709_ToLowerCase.pdb

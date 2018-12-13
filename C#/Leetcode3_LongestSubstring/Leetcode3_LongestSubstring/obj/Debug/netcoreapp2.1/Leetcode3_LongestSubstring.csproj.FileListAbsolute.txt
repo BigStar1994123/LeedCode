@@ -1,0 +1,11 @@
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\bin\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.deps.json
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\bin\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.runtimeconfig.json
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\bin\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.runtimeconfig.dev.json
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\bin\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.dll
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\bin\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.pdb
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\obj\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.csprojAssemblyReference.cache
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\obj\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.csproj.CoreCompileInputs.cache
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\obj\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.AssemblyInfoInputs.cache
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\obj\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.AssemblyInfo.cs
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\obj\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.dll
+D:\Patrick\LeedCode\C#\Leetcode3_LongestSubstring\Leetcode3_LongestSubstring\obj\Debug\netcoreapp2.1\Leetcode3_LongestSubstring.pdb

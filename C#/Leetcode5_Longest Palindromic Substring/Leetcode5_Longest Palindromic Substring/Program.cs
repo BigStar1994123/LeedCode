@@ -9,7 +9,7 @@ namespace Leetcode5_Longest_Palindromic_Substring
             Console.WriteLine("Hello World!");
 
             var s = new Solution();
-            Console.WriteLine(s.LongestPalindrome(""));
+            Console.WriteLine(s.LongestPalindrome("babad"));
 
             Console.ReadLine();
         }

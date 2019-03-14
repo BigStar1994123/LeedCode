@@ -8,7 +8,7 @@ namespace Leetcode53_Maximum_Subarray
         {
             Console.WriteLine("Hello World!");
             var s = new Solution();
-            var result = s.MaxSubArray(new int[] { -2, 1, -3, 4, -1, 2, 1, -5, 99 });
+            var result = s.MaxSubArray(new int[] { -2, 1, -3, 4, -1, 2, 1, -5, 4 });
             Console.WriteLine(result);
 
             Console.ReadLine();

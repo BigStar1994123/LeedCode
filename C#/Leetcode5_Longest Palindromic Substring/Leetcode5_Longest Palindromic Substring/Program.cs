@@ -17,12 +17,21 @@ namespace Leetcode5_Longest_Palindromic_Substring
 
     public class Solution
     {
+        public struct Pos
+        {
+            public int FirstPos;
+            public int LastPos;
+        }
+
         public string LongestPalindrome(string s)
         {
             if (string.IsNullOrEmpty(s))
             {
                 return "";
             }
+
+            var p = new Pos[s.Length];
+
         }
     }
 }
